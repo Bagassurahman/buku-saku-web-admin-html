@@ -30,18 +30,19 @@ form h1{
     color: black;
     font-size: 32px;
 }
-.button-daftar{
+.button-masuk{
     background-color: #2DCE89;
     border-radius: 3px;
     width: 100%;
     padding: 4px 0px 4px 0px;
     color: white;
+    margin-top: 30px;
     margin-bottom: 20px;
 }
 p{
     font-size: 14px;
 }
- .masuk{
+.daftar{
     color: #2DCE89;
     font-size: 14px;
 }
